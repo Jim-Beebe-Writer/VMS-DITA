@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map title="VMS Procedure Documentation">
+  <topicref href="changing_plans_in_vms_task.dita" navtitle="Changing Plans in VMS" type="task"/>
+  <topicref href="changing_effective_date_task.dita" navtitle="Changing Effective Date in VMS (Moving Date Forward)" type="task"/>
+</map>
